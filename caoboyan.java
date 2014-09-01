@@ -35,5 +35,6 @@ private String sex;
 private String height;
 private String address;
 private String tel;
+private String kk;
 
 }
